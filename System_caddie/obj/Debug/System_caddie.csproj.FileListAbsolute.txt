@@ -1,0 +1,1447 @@
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\System_caddie.csprojResolveAssemblyReference.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V2\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\System_caddie.csprojResolveAssemblyReference.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V3\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V4\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\System_caddie.csprojResolveAssemblyReference.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V5\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V6\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V7\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.csprojResolveAssemblyReference.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.exe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.exe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\System_caddie.exe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\System_caddie.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\le\System_caddie.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\be\System_caddie.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Net.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.System.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.IO.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.Net.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.System.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\GHI.Premium.IO.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.csprojResolveAssemblyReference.cache
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.Resources.resources
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\TinyResGen.cache
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\be\System_caddie.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\be\System_caddie.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\le\System_caddie.pe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\le\System_caddie.pdbx
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.exe
+\\DISKSTATION713\etudes\BTS_IRIS_1&2\projet\system embarque\System_caddie_V8\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V9\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.SDCard.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.SDCard.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\bin\Debug\GTM.GHIElectronics.SDCard.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\System_caddie.csprojResolveAssemblyReference.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V10\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\le\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\be\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\le\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\be\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\System_caddie.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.Net.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.System.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.IO.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.Serial.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.Hardware.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.Net.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpider.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.Display_T35.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.RFID.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.UsbClientDP.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GTM.GHIElectronics.WiFi_RS21.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.System.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\GHI.Premium.IO.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\BE\Gadgeteer.SPI.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.Hardware.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.Net.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.SDCard.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.System.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.IO.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.Hardware.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.Net.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHIElectronics.Gadgeteer.FEZSpider.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.Display_T35.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.RFID.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.SDCard.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.SDCard.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.UsbClientDP.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GTM.GHIElectronics.WiFi_RS21.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.System.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\GHI.Premium.IO.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\System_caddie.csprojResolveAssemblyReference.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\TinyCLR_DebugReferences.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\System_caddie.Resources.resources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\TinyResGen.cache
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\be\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\be\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\le\System_caddie.pe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\le\System_caddie.pdbx
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\System_caddie.exe
+D:\Projet caddie svn\trunk\system embarque\System_caddie_V11\System_caddie\obj\Debug\System_caddie.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\le\System_caddie.exe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\be\System_caddie.exe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\le\System_caddie.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\be\System_caddie.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\System_caddie.exe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\System_caddie.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\le\System_caddie.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\le\System_caddie.pdbx
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\be\System_caddie.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\be\System_caddie.pdbx
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\Gadgeteer.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\Gadgeteer.Serial.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\Gadgeteer.WebClient.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\Gadgeteer.WebServer.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GHI.Premium.Hardware.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GHI.Premium.Net.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpider.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GTM.GHIElectronics.Display_T35.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GTM.GHIElectronics.RFID.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GTM.GHIElectronics.UsbClientDP.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\GTM.GHIElectronics.WiFi_RS21.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\LE\Gadgeteer.SPI.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.dll
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.Serial.dll
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.WebClient.dll
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.WebServer.dll
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.SPI.dll
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.xml
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.Serial.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.Serial.xml
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.WebClient.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.WebClient.xml
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.WebServer.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.WebServer.xml
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.SPI.pdb
+\\diskstation713\home\System_caddie_V12\System_caddie\bin\Debug\Gadgeteer.SPI.xml
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\System_caddie.Resources.resources
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\System_caddie.csproj.GenerateResource.Cache
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\System_caddie.Resources.tinyresources
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\TinyResGen.cache
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\be\System_caddie.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\be\System_caddie.pdbx
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\le\System_caddie.pe
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\le\System_caddie.pdbx
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\System_caddie.exe
+\\diskstation713\home\System_caddie_V12\System_caddie\obj\Debug\System_caddie.pdb
